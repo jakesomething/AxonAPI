@@ -1,4 +1,4 @@
-# LogRhythm Axon Import tool for AlienVault OTX
+# LogRhythm Axon Import script for AlienVault OTX
 ## Overview
 This project is to demonstrate the ease of importing data from a free intel feed into the LogRhythm Axon platform using publically available APIs.
 
