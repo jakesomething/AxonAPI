@@ -4,7 +4,7 @@ This project is to demonstrate the ease of importing data from a free intel feed
 
 ## Requirements
 * PowerShell 7 or newer
-* OTX Account ![https://otx.alienvault.com/](https://otx.alienvault.com/)
+* OTX Account !(https://otx.alienvault.com/)
 * LogRhythm Axon API credentials
 * LogRhythm Axon List ID
 
