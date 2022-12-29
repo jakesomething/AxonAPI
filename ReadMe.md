@@ -1,6 +1,6 @@
 # LogRhythm Axon Import script for AlienVault OTX
 ## Overview
-This project is to demonstrate the ease of importing data from a free intel feed into the LogRhythm Axon platform using publically available APIs.
+This project is to demonstrate the ease of importing data from a free intel feed into the LogRhythm Axon platform using publically available APIs.  This version will sort out new data to append to the Axon lists, other approaches could be taken to replace the list in the future.
 
 ## Requirements
 * PowerShell 7 or newer
