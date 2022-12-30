@@ -27,5 +27,5 @@ $multipartContent.Add($fileContent)
 $body = $multipartContent
 
 #Send CSV to Axon
-$response = Invoke-RestMethod "https://api.na01.prod.boreas.cloud/list-svc/v1/tenants/$tenant_id/list-definitions/$list_id/list-items/import?headersNotIncluded=false" -Method 'PUT' -Headers $headers -Body $body
+$response = Invoke-RestMethod "https://api.na01.prod.boreas.cloud/list-svc/v1/tenants/$tenant_id/list-definitions/$list_id/list-items/import?headersNotIncluded=false" -Method 'POST' -Headers $headers -Body $body
 $response | ConvertTo-Json
