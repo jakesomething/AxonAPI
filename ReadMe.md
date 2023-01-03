@@ -7,6 +7,7 @@ This project is to demonstrate the ease of importing data from a free intel feed
 * OTX Account https://otx.alienvault.com/
 * LogRhythm Axon API credentials
 * LogRhythm Axon List ID
+* Create the directories referenced (by default it is C:\Exports)
 
 ## Usage
 1. Update both scripts with necessary OTX key, API key and List ID
